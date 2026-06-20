@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.program.jaguar.wizard" name="Jaguar Wizard" version="1.0.0" provider-name="ashcan57">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Jaguar Wizard</summary>
+    <description lang="en">Install the Encore Kodi build from Jaguar.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
