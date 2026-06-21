@@ -11,8 +11,4 @@
     <description lang="en">Install the Encore Kodi build from Jaguar.</description>
     <platform>all</platform>
   </extension>
-  <assets>
-  <icon>icon.png</icon>
-  <fanart>fanart.png</fanart>
-</assets>
 </addon>

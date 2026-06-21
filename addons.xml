@@ -12,6 +12,10 @@
       <summary lang="en">Jaguar Repository</summary>
       <description lang="en">Jaguar Repository for family and friends.</description>
       <platform>all</platform>
+      <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.png</fanart>
+      </assets>
     </extension>
   </addon>
   <addon id="plugin.program.jaguar.wizard" name="Jaguar Wizard" version="1.0.0" provider-name="ashcan57">
@@ -25,6 +29,10 @@
       <summary lang="en">Jaguar Wizard</summary>
       <description lang="en">Install the Encore Kodi build from Jaguar.</description>
       <platform>all</platform>
+      <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.png</fanart>
+      </assets>
     </extension>
   </addon>
 </addons>
